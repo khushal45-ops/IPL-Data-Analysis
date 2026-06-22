@@ -4,6 +4,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-brightgreen?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?style=flat-square)
 ![Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?style=flat-square&logo=googlecolab)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
 > 🎯 An interactive IPL Cricket Dashboard analyzing 800+ matches across 15 seasons (2008–2022)
 
